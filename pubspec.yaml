@@ -1,9 +1,11 @@
 name: flutter_fins_protocol
-version: 1.0.0
+version: 1.0.1
 description: "Flutter Fins Protocol library is a fins protocol based communication library for Omron plc."
 homepage: https://reposis.com
 repository: https://github.com/reposis/flutter_fins_protocol
 issue_tracker: https://github.com/reposis/flutter_fins_protocol/issues
+platforms:
+  linux:
 
 environment:
   sdk: '>=3.3.4 <4.0.0'
