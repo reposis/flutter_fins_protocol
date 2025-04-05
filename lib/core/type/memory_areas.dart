@@ -15,8 +15,6 @@ extension MemoryAreasExtension on MemoryAreas {
         return 'W';
       case MemoryAreas.HOLDING_BIT:
         return 'H';
-      default:
-        return '';
     }
   }
 }
